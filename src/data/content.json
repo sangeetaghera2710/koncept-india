@@ -145,7 +145,7 @@
     ]
   },
   "about": {
-    "bannerImage": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1600&auto=format&fit=crop",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
     "title": "About Koncept India Enterprises",
     "overview": [
       "Koncept India Enterprises was founded with a vision to deliver high-quality printing and packaging solutions that meet the evolving demands of modern businesses. What began as a focused initiative to provide reliable print services has grown into a trusted partner for corporate and commercial clients across industries.",
@@ -222,7 +222,7 @@
   "printing": {
     "title": "Printing Services",
     "subtitle": "High-quality printing solutions with multi-colour Offset, Digital, Screen, UV & Leaf Printing technologies.",
-    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/PrintingSolutions_Header_Temp.jpg",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
     "categories": [
       {
         "id": "paper-printing",
@@ -231,59 +231,59 @@
         "items": [
           {
             "name": "Leaflets / Fliers",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Corporate Stationary",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Newsletters / Magazines",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Calendars",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Labels / Tags",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Catalogues / Books / Brochures",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Coffee Table Books",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Carry Bags",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Wedding Invitations / Greeting Cards",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Danglers / P.O.P Material",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Invoice Jackets",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Notepads, Diaries",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Personalized Stationary",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           },
           {
             "name": "Packaging Boxes",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_Temp.jpg"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
           }
         ]
       }
@@ -292,7 +292,7 @@
   "packaging": {
     "title": "Packaging Solutions",
     "subtitle": "Premium packaging, corporate gifting, and handcrafted leather products for your brand.",
-    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/PackagingSolutions_Header_Temp.jpg",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
     "categories": [
       {
         "id": "corporate-gifting",
@@ -413,7 +413,7 @@
     }
   },
   "gallery": {
-    "bannerImage": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?q=80&w=1600&auto=format&fit=crop",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
     "title": "Gallery & Portfolio",
     "subtitle": "A showcase of our finest work across printing, packaging, and corporate solutions.",
     "categories": [
