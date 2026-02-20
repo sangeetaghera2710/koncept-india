@@ -292,7 +292,7 @@
   "packaging": {
     "title": "Packaging Solutions",
     "subtitle": "Premium packaging, corporate gifting, and handcrafted leather products for your brand.",
-    "bannerImage": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?q=80&w=1600&auto=format&fit=crop",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/PackagingSolutions_Header_Temp.jpg",
     "categories": [
       {
         "id": "corporate-gifting",
@@ -301,35 +301,35 @@
         "items": [
           {
             "name": "Pens, Pencils",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           },
           {
             "name": "Showpieces",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           },
           {
             "name": "Gift Sets",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           },
           {
             "name": "Phone Covers",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           },
           {
             "name": "Power Banks",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           },
           {
             "name": "Sticky Notes",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           },
           {
             "name": "T-shirts, Caps",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           },
           {
             "name": "Mugs",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Hyatt_Regency_Delhi_Gift_Box.jpg"
           }
         ]
       },
@@ -340,31 +340,35 @@
         "items": [
           {
             "name": "Laptop Bags",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
           },
           {
             "name": "Gym Bags",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
           },
           {
             "name": "Duffle Bags",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
           },
           {
             "name": "Passport Holders",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
           },
           {
             "name": "Tablet Sleeves",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
           },
           {
             "name": "Laptop Covers / Laptop Sleeves",
-            "image": ""
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
           },
           {
-            "name": "Wallets / Money Clips",
-            "image": ""
+            "name": "Wallets ",
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
+          },
+          {
+            "name": "Money Clips",
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Leather_Article_Temp.jpg"
           }
         ]
       }
