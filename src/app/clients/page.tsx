@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { getContent } from "@/lib/content";
-import SectionHeading from "@/components/SectionHeading";
+import PageBackground from "@/components/PageBackground";
 
 export const metadata: Metadata = {
   title: "Our Clients",
@@ -9,15 +9,29 @@ export const metadata: Metadata = {
 };
 
 export default function ClientsPage() {
-  const { clients } = getContent();
+  const content = getContent();
+  const { clients, pageBackgrounds } = content;
+  const bg = pageBackgrounds?.clients;
 
   return (
-    <div className="bg-white">
-      {/* Page Hero */}
-      <section className="bg-gradient-to-r from-gray-900 to-gray-800 text-white py-16 sm:py-20">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl sm:text-5xl font-bold mb-4">{clients.title}</h1>
-          <p className="text-gray-300 text-lg max-w-2xl">{clients.subtitle}</p>
+    <PageBackground image={bg?.image} opacity={bg?.opacity}>
+      {/* Banner Image */}
+      <section className="relative h-[280px] sm:h-[340px] overflow-hidden">
+        <div
+          className="absolute inset-0 bg-cover bg-center"
+          style={{
+            backgroundImage: clients.bannerImage
+              ? `url('${clients.bannerImage}')`
+              : undefined,
+            backgroundColor: clients.bannerImage ? undefined : "#1B3A88",
+          }}
+        />
+        <div className="absolute inset-0 bg-gray-900/60" />
+        <div className="relative z-10 h-full flex items-center">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
+            <h1 className="text-4xl sm:text-5xl font-bold text-white mb-4">{clients.title}</h1>
+            <p className="text-gray-300 text-lg max-w-2xl">{clients.subtitle}</p>
+          </div>
         </div>
       </section>
 
@@ -40,7 +54,6 @@ export default function ClientsPage() {
                     key={client}
                     className="group flex items-center gap-4 p-5 bg-white rounded-xl border border-gray-200 hover:shadow-md hover:border-amber-200 transition-all"
                   >
-                    {/* Logo placeholder */}
                     <div className="w-12 h-12 bg-gray-100 rounded-lg flex items-center justify-center shrink-0 group-hover:bg-amber-50 transition-colors">
                       <span className="text-lg font-bold text-amber-700">
                         {client.charAt(0)}
@@ -71,6 +84,6 @@ export default function ClientsPage() {
           </p>
         </div>
       </section>
-    </div>
+    </PageBackground>
   );
 }

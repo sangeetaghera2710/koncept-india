@@ -7,8 +7,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company */}
           <div>
-            <div className="flex items-center gap-3 mb-4">
-              <img src="/images/logo-light.svg" alt="Koncept India Enterprises" className="h-10 w-auto" />
+            <div className="flex flex-col mb-4">
+              <span className="text-lg font-bold text-white leading-tight">Koncept India</span>
+              <span className="text-xs text-gray-400 uppercase tracking-wide">Enterprises</span>
             </div>
             <p className="text-sm leading-relaxed">
               One of the leading high-quality printers equipped with in-house
@@ -22,9 +23,9 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               {[
                 { href: "/about", label: "About Us" },
-                { href: "/products", label: "Products & Services" },
-                { href: "/gallery", label: "Gallery" },
-                { href: "/clients", label: "Our Clients" },
+                { href: "/printing", label: "Printing Services" },
+                { href: "/packaging", label: "Packaging Solutions" },
+                { href: "/gallery", label: "Catalogue" },
                 { href: "/contact", label: "Contact Us" },
               ].map((link) => (
                 <li key={link.href}>

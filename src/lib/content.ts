@@ -9,6 +9,9 @@ export type SiteContent = {
     registeredOffice: { address: string; mapUrl: string };
     branchOffice: { address: string; mapUrl: string };
   };
+  contact: {
+    bannerImage: string;
+  };
   home: {
     heroTitle: string;
     heroSubtitle: string;
@@ -17,9 +20,11 @@ export type SiteContent = {
     heroTextColor: "light" | "dark";
     heroProducts: { title: string; tagline: string; image: string; href: string }[];
     quickLinks: { title: string; description: string; icon: string; href: string }[];
-    clientStrip: string[];
+    clientStrip: { name: string; logo: string }[];
+    testimonials: { quote: string; author: string; company: string }[];
   };
   about: {
+    bannerImage: string;
     title: string;
     overview: string[];
     capabilities: string[];
@@ -35,7 +40,42 @@ export type SiteContent = {
       items: string[];
     }[];
   };
+  printing: {
+    title: string;
+    subtitle: string;
+    bannerImage: string;
+    categories: {
+      id: string;
+      name: string;
+      description: string;
+      items: { name: string; image: string }[];
+    }[];
+  };
+  packaging: {
+    title: string;
+    subtitle: string;
+    bannerImage: string;
+    categories: {
+      id: string;
+      name: string;
+      description: string;
+      items: { name: string; image: string }[];
+    }[];
+  };
+  images: {
+    aboutStory: string;
+    aboutMachinery: string;
+    aboutFounder: string;
+    ctaBackground: string;
+  };
+  pageBackgrounds: {
+    [key: string]: {
+      image: string;
+      opacity: number;
+    };
+  };
   gallery: {
+    bannerImage: string;
     title: string;
     subtitle: string;
     categories: {
@@ -46,6 +86,7 @@ export type SiteContent = {
     }[];
   };
   clients: {
+    bannerImage: string;
     title: string;
     subtitle: string;
     categories: {

@@ -13,6 +13,9 @@
       "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.0!2d75.78!3d26.82!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2sSanganer+Jaipur!5e0!3m2!1sen!2sin!4v1"
     }
   },
+  "contact": {
+    "bannerImage": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=1600&auto=format&fit=crop"
+  },
   "home": {
     "heroTitle": "Premium Printing & Packaging Solutions",
     "heroSubtitle": "Welcome to Koncept India Enterprises Pvt Ltd. We are one of the leading high-quality printers equipped with in-house facilities featuring the latest state-of-the-art technology.",
@@ -30,7 +33,7 @@
         "title": "Corporate Stationery",
         "tagline": "Professional branding that makes an impression",
         "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=800&auto=format&fit=crop",
-        "href": "/products#paper-printing"
+        "href": "/printing"
       },
       {
         "title": "Eco-Friendly Amenities",
@@ -42,13 +45,13 @@
         "title": "Leather Collections",
         "tagline": "Handcrafted bags, wallets & accessories",
         "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=800&auto=format&fit=crop",
-        "href": "/products#leather-products"
+        "href": "/packaging#leather-products"
       },
       {
         "title": "Custom Gift Sets",
         "tagline": "Curated corporate gifting solutions",
         "image": "https://images.unsplash.com/photo-1549465220-1a8b9238f581?q=80&w=800&auto=format&fit=crop",
-        "href": "/products#corporate-gifting"
+        "href": "/packaging#corporate-gifting"
       }
     ],
     "quickLinks": [
@@ -56,41 +59,89 @@
         "title": "Printing Services",
         "description": "Multi-colour Offset, Digital, Screen, UV & Leaf Printing with precision and excellence.",
         "icon": "print",
-        "href": "/products#paper-printing"
+        "href": "/printing"
       },
       {
         "title": "Corporate Gifting",
         "description": "Curated premium gifts for corporate events, branding, and client relationships.",
         "icon": "gift",
-        "href": "/products#corporate-gifting"
+        "href": "/packaging#corporate-gifting"
       },
       {
         "title": "Leather Products",
         "description": "Handcrafted leather bags, wallets, and accessories for the discerning professional.",
         "icon": "briefcase",
-        "href": "/products#leather-products"
+        "href": "/packaging#leather-products"
       },
       {
         "title": "Custom Packaging",
         "description": "Luxury rigid boxes, eco-friendly solutions, and bespoke packaging designs.",
         "icon": "package",
-        "href": "/products#paper-printing"
+        "href": "/packaging"
       }
     ],
     "clientStrip": [
-      "JW Marriott",
-      "Hyatt",
-      "BMW",
-      "Bacardi",
-      "Pullman",
-      "Novotel",
-      "Fairmont",
-      "W Hotels",
-      "Raffles",
-      "DLF"
+      {
+        "name": "JW Marriott",
+        "logo": ""
+      },
+      {
+        "name": "Hyatt",
+        "logo": ""
+      },
+      {
+        "name": "BMW",
+        "logo": ""
+      },
+      {
+        "name": "Bacardi",
+        "logo": ""
+      },
+      {
+        "name": "Pullman",
+        "logo": ""
+      },
+      {
+        "name": "Novotel",
+        "logo": ""
+      },
+      {
+        "name": "Fairmont",
+        "logo": ""
+      },
+      {
+        "name": "W Hotels",
+        "logo": ""
+      },
+      {
+        "name": "Raffles",
+        "logo": ""
+      },
+      {
+        "name": "DLF",
+        "logo": ""
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Koncept India has been our trusted partner for all hotel collaterals. The quality and attention to detail is consistently outstanding.",
+        "author": "General Manager",
+        "company": "JW Marriott, New Delhi"
+      },
+      {
+        "quote": "From luxury rigid boxes to corporate stationery, every product they deliver exceeds our expectations. Highly recommended.",
+        "author": "Procurement Head",
+        "company": "Hyatt Regency"
+      },
+      {
+        "quote": "Their eco-friendly amenity kits were a game-changer for our sustainability goals. Excellent quality with fast turnaround.",
+        "author": "Operations Director",
+        "company": "Pullman & Novotel"
+      }
     ]
   },
   "about": {
+    "bannerImage": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1600&auto=format&fit=crop",
     "title": "About Koncept India Enterprises",
     "overview": [
       "Koncept India Enterprises is dedicated to giving the best quality service and meeting committed delivery schedules.",
@@ -168,7 +219,191 @@
       }
     ]
   },
+  "printing": {
+    "title": "Printing Services",
+    "subtitle": "High-quality printing solutions with multi-colour Offset, Digital, Screen, UV & Leaf Printing technologies.",
+    "bannerImage": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1600&auto=format&fit=crop",
+    "categories": [
+      {
+        "id": "paper-printing",
+        "name": "Paper Printing",
+        "description": "High-quality printing solutions for every business need.",
+        "items": [
+          {
+            "name": "Leaflets / Fliers",
+            "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=600&auto=format&fit=crop"
+          },
+          {
+            "name": "Corporate Stationary",
+            "image": ""
+          },
+          {
+            "name": "Newsletters / Magazines",
+            "image": ""
+          },
+          {
+            "name": "Calendars",
+            "image": ""
+          },
+          {
+            "name": "Labels / Tags",
+            "image": ""
+          },
+          {
+            "name": "Catalogues / Books / Brochures",
+            "image": ""
+          },
+          {
+            "name": "Coffee Table Books",
+            "image": ""
+          },
+          {
+            "name": "Carry Bags",
+            "image": ""
+          },
+          {
+            "name": "Wedding Invitations / Greeting Cards",
+            "image": ""
+          },
+          {
+            "name": "Danglers / P.O.P Material",
+            "image": ""
+          },
+          {
+            "name": "Invoice Jackets",
+            "image": ""
+          },
+          {
+            "name": "Notepads, Diaries",
+            "image": ""
+          },
+          {
+            "name": "Personalized Stationary",
+            "image": ""
+          },
+          {
+            "name": "Packaging Boxes",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  "packaging": {
+    "title": "Packaging Solutions",
+    "subtitle": "Premium packaging, corporate gifting, and handcrafted leather products for your brand.",
+    "bannerImage": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?q=80&w=1600&auto=format&fit=crop",
+    "categories": [
+      {
+        "id": "corporate-gifting",
+        "name": "Corporate Gifting",
+        "description": "Premium gifts for corporate branding and client engagement.",
+        "items": [
+          {
+            "name": "Pens, Pencils",
+            "image": ""
+          },
+          {
+            "name": "Showpieces",
+            "image": ""
+          },
+          {
+            "name": "Gift Sets",
+            "image": ""
+          },
+          {
+            "name": "Phone Covers",
+            "image": ""
+          },
+          {
+            "name": "Power Banks",
+            "image": ""
+          },
+          {
+            "name": "Sticky Notes",
+            "image": ""
+          },
+          {
+            "name": "T-shirts, Caps",
+            "image": ""
+          },
+          {
+            "name": "Mugs",
+            "image": ""
+          }
+        ]
+      },
+      {
+        "id": "leather-products",
+        "name": "Leather Products",
+        "description": "Handcrafted leather goods for professionals and enterprises.",
+        "items": [
+          {
+            "name": "Laptop Bags",
+            "image": ""
+          },
+          {
+            "name": "Gym Bags",
+            "image": ""
+          },
+          {
+            "name": "Duffle Bags",
+            "image": ""
+          },
+          {
+            "name": "Passport Holders",
+            "image": ""
+          },
+          {
+            "name": "Tablet Sleeves",
+            "image": ""
+          },
+          {
+            "name": "Laptop Covers / Laptop Sleeves",
+            "image": ""
+          },
+          {
+            "name": "Wallets / Money Clips",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  "images": {
+    "aboutStory": "/images/about/our-story.jpg",
+    "aboutMachinery": "/images/about/machinery.jpg",
+    "aboutFounder": "/images/about/founder.jpg",
+    "ctaBackground": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1600&auto=format&fit=crop"
+  },
+  "pageBackgrounds": {
+    "about": {
+      "image": "",
+      "opacity": 0.05
+    },
+    "contact": {
+      "image": "",
+      "opacity": 0.05
+    },
+    "gallery": {
+      "image": "",
+      "opacity": 0.05
+    },
+    "clients": {
+      "image": "",
+      "opacity": 0.05
+    },
+    "printing": {
+      "image": "",
+      "opacity": 0.05
+    },
+    "packaging": {
+      "image": "",
+      "opacity": 0.05
+    }
+  },
   "gallery": {
+    "bannerImage": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?q=80&w=1600&auto=format&fit=crop",
     "title": "Gallery & Portfolio",
     "subtitle": "A showcase of our finest work across printing, packaging, and corporate solutions.",
     "categories": [
@@ -220,6 +455,7 @@
     ]
   },
   "clients": {
+    "bannerImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1600&auto=format&fit=crop",
     "title": "Our Clients",
     "subtitle": "Trusted by leading hospitality brands and corporate enterprises across India.",
     "categories": [
