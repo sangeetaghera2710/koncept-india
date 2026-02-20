@@ -148,23 +148,19 @@
     "bannerImage": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1600&auto=format&fit=crop",
     "title": "About Koncept India Enterprises",
     "overview": [
-      "Koncept India Enterprises is dedicated to giving the best quality service and meeting committed delivery schedules.",
-      "We have been providing printing services to our clients over the years to their entire satisfaction."
+      "Koncept India Enterprises was founded with a vision to deliver high-quality printing and packaging solutions that meet the evolving demands of modern businesses. What began as a focused initiative to provide reliable print services has grown into a trusted partner for corporate and commercial clients across industries.",
+      "From the very beginning, our commitment has been clear — to combine precision, advanced technology, and timely execution. Over the years, we have strengthened our capabilities, expanded our infrastructure, and built long-term relationships by consistently delivering quality without compromise.",
+      "Today, Koncept India Enterprises stands as a dependable B2B printing and packaging solutions provider, driven by performance, professionalism, and client satisfaction."
     ],
     "capabilities": [
-      "We offer multi-colour Offset Printing, Digital Printing, Screen Printing, Leaf Printing, UV Printing, and associated services.",
-      "We boast an in-house graphics designing unit capable of designing, color correction, and proofing using high-end PCs and Macintosh systems.",
-      "A synchronized proofing system is available to convert desired jobs into prints for proofing purposes."
+      "At Koncept India Enterprises, technology plays a central role in maintaining superior quality standards. Our facility is equipped with state-of-the-art printing and finishing machinery that enables us to handle diverse project requirements with efficiency and precision.",
+      "We offer multi-colour offset printing, digital printing, UV printing, screen printing, leaf printing, and advanced packaging production under one roof. Our in-house graphic design unit, supported by high-end PC and Macintosh systems, ensures accurate color correction, proofing, and pre-press preparation.",
+      "With a synchronized proofing system in place, we ensure that every job is aligned with client expectations before final production. This integrated infrastructure allows us to maintain quality consistency and adhere to committed delivery schedules."
     ],
     "visionMission": [
-      "To recognize the customer's right to Quality, Services, Timely Delivery, and Reasonable Cost.",
-      "To ensure maximum satisfaction to the clients.",
-      "To continue to maintain ethical practices within a legal, social, and personal conscience framework.",
-      "To maintain a high degree of efficiency and attain international standards.",
-      "Achieving quality through people and technology.",
-      "We share our knowledge and experience with clients and suggest key innovations to enhance their value proposition.",
-      "We believe excellence in print is best achieved by a fusion of individual work and technology.",
-      "We are passionate and dedicated to innovation."
+      "Koncept India Enterprises was established by Paramveer Sharma, a dynamic entrepreneur based in Delhi. He began his journey as a young entrepreneur with a small office in Naraina Industrial Area, driven by determination, technical knowledge, and a vision to build a reliable printing enterprise.",
+      "Through dedication, hands-on leadership, and a strong focus on quality and customer relationships, he steadily expanded the company’s capabilities and reputation. His commitment to precision, innovation, and ethical business practices continues to guide the organization today.",
+      "Under his leadership, Koncept India Enterprises has evolved into a trusted printing and packaging partner for businesses seeking dependable service and uncompromising quality."
     ]
   },
   "products": {
@@ -375,9 +371,9 @@
     ]
   },
   "images": {
-    "aboutStory": "/images/about/our-story.jpg",
-    "aboutMachinery": "/images/about/machinery.jpg",
-    "aboutFounder": "/images/about/founder.jpg",
+    "aboutStory": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/Our_Story_Temp.jpg",
+    "aboutMachinery": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/Our_Machinery_Temp.jpg",
+    "aboutFounder": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/Founder_Temp.jpg",
     "ctaBackground": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1600&auto=format&fit=crop"
   },
   "pageBackgrounds": {
