@@ -82,44 +82,48 @@
     ],
     "clientStrip": [
       {
-        "name": "JW Marriott",
-        "logo": ""
-      },
-      {
-        "name": "Hyatt",
-        "logo": ""
-      },
-      {
-        "name": "BMW",
-        "logo": ""
+        "name": "Hyatt Regency",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/HYATT_REGENCY_NEW_DELHI.png"
       },
       {
         "name": "Bacardi",
-        "logo": ""
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/BACARDI_INDIA_PVT_LTD.png"
       },
       {
         "name": "Pullman",
-        "logo": ""
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/PULLMAN_NEW_DELHI.png"
       },
       {
-        "name": "Novotel",
-        "logo": ""
+        "name": "Aloft",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/ALOFT_AEROCITY_NEW_DELHI.png"
       },
       {
-        "name": "Fairmont",
-        "logo": ""
+        "name": "Camellias",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/DLF_CAMELLIAS.png"
       },
       {
         "name": "W Hotels",
-        "logo": ""
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/W_GOA.png"
       },
       {
-        "name": "Raffles",
-        "logo": ""
+        "name": "Grand Hyatt",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/GRAND_HYATT_GURGAON.png"
       },
       {
-        "name": "DLF",
-        "logo": ""
+        "name": "OMA",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/OMA_LIVING.png"
+      },
+      {
+        "name": "Pride Plaza",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/PRIDE_PLAZA_AEROCITY.png"
+      },
+      {
+        "name": "Pernord",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/PERNORD_RICARD_INDIA.png"
+      },
+      {
+        "name": "IBIS",
+        "logo": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/IBIS.png"
       }
     ],
     "testimonials": [
