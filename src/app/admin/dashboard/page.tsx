@@ -442,10 +442,39 @@ function HomeEditor({ content, setContent }: EditorProps) {
         </button>
       </div>
 
+      {/* Our Expertise Section */}
+      <div className="border-t border-gray-200 pt-6">
+        <h4 className="text-sm font-bold text-gray-900 mb-4 uppercase tracking-wide">Our Expertise Section</h4>
+        <div className="space-y-4">
+          <InputField
+            label="Section Title"
+            value={home.expertiseTitle || "Our Expertise"}
+            onChange={(v) => update("expertiseTitle", v)}
+          />
+          <TextAreaField
+            label="Section Subtitle"
+            value={home.expertiseSubtitle || ""}
+            onChange={(v) => update("expertiseSubtitle", v)}
+          />
+        </div>
+      </div>
+
       <div>
-        <h4 className="text-sm font-medium text-gray-700 mb-3">Quick Links</h4>
+        <h4 className="text-sm font-medium text-gray-700 mb-3">Expertise Cards (Quick Links)</h4>
         {home.quickLinks.map((link, i) => (
           <div key={i} className="border border-gray-200 rounded-lg p-4 mb-3">
+            <div className="flex justify-between items-center mb-3">
+              <span className="text-xs font-semibold text-gray-400 uppercase">Card {i + 1}</span>
+              <button
+                onClick={() => {
+                  const updated = home.quickLinks.filter((_, idx) => idx !== i);
+                  setContent({ ...content, home: { ...home, quickLinks: updated } });
+                }}
+                className="text-xs text-red-500 hover:text-red-700"
+              >
+                Remove
+              </button>
+            </div>
             <div className="grid grid-cols-2 gap-3">
               <InputField
                 label="Title"
@@ -478,8 +507,31 @@ function HomeEditor({ content, setContent }: EditorProps) {
                 }}
               />
             </div>
+            <div className="mt-3">
+              <InputField
+                label="Card Image URL"
+                value={link.image || ""}
+                onChange={(v) => {
+                  const updated = [...home.quickLinks];
+                  updated[i] = { ...updated[i], image: v };
+                  setContent({ ...content, home: { ...home, quickLinks: updated } });
+                }}
+              />
+              {link.image && (
+                <img src={link.image} alt={link.title} className="w-full h-20 object-cover rounded-lg mt-2" />
+              )}
+            </div>
           </div>
         ))}
+        <button
+          onClick={() => {
+            const updated = [...home.quickLinks, { title: "", description: "", icon: "", href: "/", image: "" }];
+            setContent({ ...content, home: { ...home, quickLinks: updated } });
+          }}
+          className="text-sm text-amber-700 hover:text-amber-800 font-medium"
+        >
+          + Add Expertise Card
+        </button>
       </div>
 
       {/* Testimonials */}
