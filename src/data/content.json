@@ -14,11 +14,11 @@
     }
   },
   "contact": {
-    "bannerImage": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=1600&auto=format&fit=crop"
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-thirdman-7181179.jpg"
   },
   "home": {
     "heroTitle": "Premium Printing & Packaging Solutions",
-    "heroSubtitle": "Welcome to Koncept India Enterprises Pvt Ltd. We are one of the leading high-quality printers equipped with in-house facilities featuring the latest state-of-the-art technology.",
+    "heroSubtitle": "Welcome to <b>Koncept India Enterprises Pvt Ltd.</b> We are one of the leading high-quality printers equipped with in-house facilities featuring the latest state-of-the-art technology.",
     "heroCta": "Explore Our Services",
     "heroBackground": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1572&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "heroTextColor": "light",
@@ -145,7 +145,7 @@
     ]
   },
   "about": {
-    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-misolo-cosmetic-2588316-4841368.jpg",
     "title": "About Koncept India Enterprises",
     "overview": [
       "Koncept India Enterprises was founded with a vision to deliver high-quality printing and packaging solutions that meet the evolving demands of modern businesses. What began as a focused initiative to provide reliable print services has grown into a trusted partner for corporate and commercial clients across industries.",
@@ -222,7 +222,7 @@
   "printing": {
     "title": "Printing Services",
     "subtitle": "High-quality printing solutions with multi-colour Offset, Digital, Screen, UV & Leaf Printing technologies.",
-    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-misolo-cosmetic-2588316-4841368.jpg",
     "categories": [
       {
         "id": "paper-printing",
@@ -231,59 +231,47 @@
         "items": [
           {
             "name": "Leaflets / Fliers",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Corporate Stationary",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Newsletters / Magazines",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Calendars",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Labels / Tags",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Catalogues / Books / Brochures",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Coffee Table Books",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Carry Bags",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Wedding Invitations / Greeting Cards",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Danglers / P.O.P Material",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           },
           {
             "name": "Invoice Jackets",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
-          },
-          {
-            "name": "Notepads, Diaries",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
-          },
-          {
-            "name": "Personalized Stationary",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
-          },
-          {
-            "name": "Packaging Boxes",
-            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Calendar_2Temp.png"
+            "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/free-brochure-templates-49.jpg"
           }
         ]
       }
@@ -292,7 +280,7 @@
   "packaging": {
     "title": "Packaging Solutions",
     "subtitle": "Premium packaging, corporate gifting, and handcrafted leather products for your brand.",
-    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-misolo-cosmetic-2588316-4841368.jpg",
     "categories": [
       {
         "id": "corporate-gifting",
@@ -383,12 +371,12 @@
   "images": {
     "aboutStory": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/Our_Story_Temp.jpg",
     "aboutMachinery": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/Our_Machinery_Temp.jpg",
-    "aboutFounder": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/Founder_Temp.jpg",
-    "ctaBackground": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1600&auto=format&fit=crop"
+    "aboutFounder": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-karola-g-8546651.jpg",
+    "ctaBackground": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-misolo-cosmetic-2588316-4841368.jpg"
   },
   "pageBackgrounds": {
     "about": {
-      "image": "",
+      "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-misolo-cosmetic-2588316-4841368.jpg",
       "opacity": 0.05
     },
     "contact": {
@@ -413,7 +401,7 @@
     }
   },
   "gallery": {
-    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/GiftBox.jpg",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-misolo-cosmetic-2588316-4841368.jpg",
     "title": "Gallery & Portfolio",
     "subtitle": "A showcase of our finest work across printing, packaging, and corporate solutions.",
     "categories": [
@@ -464,7 +452,7 @@
     ]
   },
   "clients": {
-    "bannerImage": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1600&auto=format&fit=crop",
+    "bannerImage": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-misolo-cosmetic-2588316-4841368.jpg",
     "title": "Our Clients",
     "subtitle": "Trusted by leading hospitality brands and corporate enterprises across India.",
     "categories": [
