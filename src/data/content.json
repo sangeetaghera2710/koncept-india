@@ -18,7 +18,7 @@
   },
   "home": {
     "heroTitle": "Premium Printing & Packaging Solutions",
-    "heroSubtitle": "Welcome to <b>Koncept India Enterprises Pvt Ltd.</b> We are one of the leading high-quality printers equipped with in-house facilities featuring the latest state-of-the-art technology.",
+    "heroSubtitle": "Welcome to Koncept India Enterprises — your trusted B2B partner for premium printing and packaging solutions. We offer high-quality print and packaging services that elevate brands and enhance their market presence.",
     "heroCta": "Explore Our Services",
     "heroBackground": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=1572&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "heroTextColor": "light",
@@ -28,30 +28,6 @@
         "tagline": "A leading printing and packaging partner for businesses across India.",
         "image": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?q=80&w=800&auto=format&fit=crop",
         "href": "/gallery"
-      },
-      {
-        "title": "Premium Printing & Packaging Solutions",
-        "tagline": "From design and proofing to final production, we provide end-to-end services tailored to business requirements.",
-        "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=800&auto=format&fit=crop",
-        "href": "/printing"
-      },
-      {
-        "title": "Precision in Print. Excellence in Packaging.",
-        "tagline": "Delivering high-quality printing and customized packaging solutions designed to meet corporate standards and timelines.",
-        "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=800&auto=format&fit=crop",
-        "href": "/gallery"
-      },
-      {
-        "title": "Where Technology Meets Craftsmanship.",
-        "tagline": "State-of-the-art infrastructure combined with expert execution to ensure superior print quality and flawless finishes.",
-        "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=800&auto=format&fit=crop",
-        "href": "/packaging#leather-products"
-      },
-      {
-        "title": "Built for Brands That Demand Quality.",
-        "tagline": "Reliable, scalable, and timely printing and packaging services that enhance your brand presence.",
-        "image": "https://images.unsplash.com/photo-1549465220-1a8b9238f581?q=80&w=800&auto=format&fit=crop",
-        "href": "/packaging#corporate-gifting"
       }
     ],
     "quickLinks": [
@@ -151,16 +127,37 @@
       ],
       "linkText": "Learn More About Us",
       "linkHref": "/about",
-      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?q=80&w=800&auto=format&fit=crop"
+      "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-karola-g-6958428.jpg"
     },
     "stats": [
-      { "value": 20, "suffix": "+", "label": "Years Experience" },
-      { "value": 500, "suffix": "+", "label": "Projects Delivered" },
-      { "value": 50, "suffix": "+", "label": "Happy Clients" },
-      { "value": 4, "suffix": "", "label": "Service Verticals" }
+      {
+        "value": 20,
+        "suffix": "+",
+        "label": "Years Experience"
+      },
+      {
+        "value": 500,
+        "suffix": "+",
+        "label": "Projects Delivered"
+      },
+      {
+        "value": 50,
+        "suffix": "+",
+        "label": "Happy Clients"
+      },
+      {
+        "value": 4,
+        "suffix": "",
+        "label": "Service Verticals"
+      }
     ],
     "rotatingCTA": {
-      "words": ["Quality", "Precision", "Innovation", "Excellence"],
+      "words": [
+        "Quality",
+        "Precision",
+        "Innovation",
+        "Excellence"
+      ],
       "titlePrefix": "Elevate Your Brand with",
       "subtitle": "Partner with us for premium printing, packaging, and gifting solutions that set your brand apart.",
       "buttonText": "Start Your Project",
@@ -175,32 +172,52 @@
           "label": "Hospitality",
           "title": "Hospitality & Hotels",
           "description": "From luxury rigid boxes for amenity kits to eco-friendly room supplies, we craft bespoke packaging and printing solutions for the world's finest hospitality brands.",
-          "features": ["Custom amenity kit packaging", "Branded collaterals & stationery", "Eco-friendly hotel supplies", "Menu cards & in-room printing"],
-          "image": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=800&auto=format&fit=crop"
+          "features": [
+            "Custom amenity kit packaging",
+            "Branded collaterals & stationery",
+            "Eco-friendly hotel supplies",
+            "Menu cards & in-room printing"
+          ],
+          "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-ali-dashti-506667798-17747916.jpg"
         },
         {
           "id": "corporate",
           "label": "Corporate & Luxury",
           "title": "Corporate & Luxury Brands",
           "description": "Premium corporate gifting sets, branded packaging, and high-quality print materials designed to strengthen brand identity and client relationships.",
-          "features": ["Corporate gift sets & hampers", "Branded packaging boxes", "Annual reports & brochures", "Event collaterals & invites"],
-          "image": "https://images.unsplash.com/photo-1549465220-1a8b9238f581?q=80&w=800&auto=format&fit=crop"
+          "features": [
+            "Corporate gift sets & hampers",
+            "Branded packaging boxes",
+            "Annual reports & brochures",
+            "Event collaterals & invites"
+          ],
+          "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-anne-r-168988-4276653.jpg"
         },
         {
           "id": "automotive",
           "label": "Automotive & FMCG",
           "title": "Automotive & FMCG",
           "description": "Durable, premium packaging and branded merchandise for automotive giants and FMCG companies — from product boxes to promotional kits.",
-          "features": ["Product launch kits", "Branded merchandise packaging", "Promotional materials", "Custom carry bags & boxes"],
-          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?q=80&w=800&auto=format&fit=crop"
+          "features": [
+            "Product launch kits",
+            "Branded merchandise packaging",
+            "Promotional materials",
+            "Custom carry bags & boxes"
+          ],
+          "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-vlada-karpovich-4452509.jpg"
         },
         {
           "id": "events",
           "label": "Events & Weddings",
           "title": "Events & Weddings",
           "description": "Exquisite invitations, curated gift boxes, and themed packaging for weddings, celebrations, and high-profile events that leave lasting impressions.",
-          "features": ["Wedding invitation suites", "Celebration gift boxes", "Themed event packaging", "Custom greeting cards"],
-          "image": "https://images.unsplash.com/photo-1607344645866-009c320b63e0?q=80&w=800&auto=format&fit=crop"
+          "features": [
+            "Wedding invitation suites",
+            "Celebration gift boxes",
+            "Themed event packaging",
+            "Custom greeting cards"
+          ],
+          "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-lara-stratiychuk-1606923648-29821872.jpg"
         }
       ]
     },
@@ -208,15 +225,30 @@
       "title": "Our Work",
       "subtitle": "A showcase of premium printing, packaging, and gifting solutions crafted for leading brands.",
       "images": [
-        { "src": "https://images.unsplash.com/photo-1513885535751-8b9238bd345a?q=80&w=600&auto=format&fit=crop", "alt": "Luxury rigid box" },
-        { "src": "https://images.unsplash.com/photo-1607344645866-009c320b63e0?q=80&w=600&auto=format&fit=crop", "alt": "Gift packaging" },
-        { "src": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?q=80&w=600&auto=format&fit=crop", "alt": "Premium packaging" },
-        { "src": "https://images.unsplash.com/photo-1549465220-1a8b9238f581?q=80&w=600&auto=format&fit=crop", "alt": "Custom gift set" },
-        { "src": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=600&auto=format&fit=crop", "alt": "Hotel amenity kit" },
-        { "src": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=600&auto=format&fit=crop", "alt": "Custom bags" },
-        { "src": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?q=80&w=600&auto=format&fit=crop", "alt": "Leather products" },
-        { "src": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=600&auto=format&fit=crop", "alt": "Corporate stationery" },
-        { "src": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=600&auto=format&fit=crop", "alt": "Eco-friendly products" }
+        {
+          "src": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-adil-khan-marwat-407278438-17878238.jpg",
+          "alt": "Luxury rigid box"
+        },
+        {
+          "src": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-kaderdygnn-17312556.jpg",
+          "alt": "Gift packaging"
+        },
+        {
+          "src": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-69816215-8365699.jpg",
+          "alt": "Premium packaging"
+        },
+        {
+          "src": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-kristina-umaeva-43719487-7460112.jpg",
+          "alt": "Custom gift set"
+        },
+        {
+          "src": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-ekrulila-33428414.jpg",
+          "alt": "Hotel amenity kit"
+        },
+        {
+          "src": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-ricardomoura-2039198.jpg",
+          "alt": "Custom bags"
+        }
       ]
     },
     "crossSellCTA": {
@@ -224,7 +256,7 @@
       "description": "From brochures and catalogues to corporate stationery and wedding invitations — our in-house printing facility delivers exceptional quality with fast turnaround. Combine with our packaging solutions for a complete brand experience.",
       "buttonText": "Explore Printing Services",
       "buttonHref": "/printing",
-      "image": "https://images.unsplash.com/photo-1603513492128-ba7bc9b3e143?q=80&w=800&auto=format&fit=crop"
+      "image": "https://pub-7c59b14cf1b64b2a834c30701e781cbe.r2.dev/Images/Clients_Final/pexels-lara-stratiychuk-1606923648-29821872.jpg"
     },
     "clientStripTitle": "Trusted By Leading Brands"
   },
